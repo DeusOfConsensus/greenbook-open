@@ -1,0 +1,50 @@
+{
+ "2": {
+  "verdict": "ok",
+  "severity": "pass"
+ },
+ "3": {
+  "verdict": "inactive",
+  "severity": "fail"
+ },
+ "4": {
+  "verdict": "expired",
+  "severity": "fail"
+ },
+ "5": {
+  "verdict": "ok",
+  "severity": "warn"
+ },
+ "6": {
+  "verdict": "unregistered",
+  "severity": "fail"
+ },
+ "7": {
+  "verdict": "unregistered",
+  "severity": "fail"
+ },
+ "8": {
+  "verdict": "mismatch",
+  "severity": "fail"
+ },
+ "9": {
+  "verdict": "ok",
+  "severity": "warn"
+ },
+ "10": {
+  "verdict": "ambiguous",
+  "severity": "warn"
+ },
+ "11": {
+  "verdict": "ok",
+  "severity": "warn"
+ },
+ "12": {
+  "verdict": "unverifiable",
+  "severity": "warn"
+ },
+ "13": {
+  "verdict": "ok",
+  "severity": "pass"
+ }
+}

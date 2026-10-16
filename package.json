@@ -1,0 +1,47 @@
+{
+  "name": "greenbook-open",
+  "version": "0.1.0",
+  "description": "Open, versioned data and API for the NAFDAC Greenbook, with a bulk registration checker. Independent project, not affiliated with NAFDAC.",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeusOfConsensus/greenbook-open.git"
+  },
+  "bin": {
+    "greenbook-open": "dist/cli.js",
+    "gbo": "dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "migrations",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "dev": "tsx src/cli.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "fixtures": "tsx scripts/make-fixtures.ts"
+  },
+  "dependencies": {
+    "@electric-sql/pglite": "^0.5.10",
+    "commander": "^15.0.0",
+    "csv-parse": "^7.0.3",
+    "fastify": "^5.12.7",
+    "pg": "^8.23.1",
+    "robots-parser": "^3.0.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "@types/pg": "^8.23.1",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.4"
+  }
+}

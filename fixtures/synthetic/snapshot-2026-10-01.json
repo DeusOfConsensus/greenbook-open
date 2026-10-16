@@ -1,0 +1,8087 @@
+[
+ {
+  "productId": 1000,
+  "registrationNumber": "T1-1000",
+  "productName": "PRIOVAIN 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "approvedAt": "2021-01-01",
+  "expiresAt": "2026-01-01",
+  "applicantEmail": "regulatory0@demo.example",
+  "applicantPhone": "08000000000"
+ },
+ {
+  "productId": 1001,
+  "registrationNumber": "T2-1001",
+  "productName": "OVAGALEX 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "08/04/2022",
+  "expiresAt": "2027-04-08"
+ },
+ {
+  "productId": 1002,
+  "registrationNumber": "T3-1002",
+  "productName": "ZOLLEXIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "15 Jul 2023",
+  "expiresAt": "2028-07-15"
+ },
+ {
+  "productId": 1003,
+  "registrationNumber": "T4-1003",
+  "productName": "GALBEXEX 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500 mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 22, 2024",
+  "expiresAt": "2029-10-22"
+ },
+ {
+  "productId": 1004,
+  "registrationNumber": "T5-1004",
+  "productName": "HEPRISIN 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2025-01-02",
+  "expiresAt": "2030-01-02"
+ },
+ {
+  "productId": 1005,
+  "registrationNumber": "T6-1005",
+  "productName": "ZOLPRIEX 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 505,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "09/04/2021",
+  "expiresAt": "2026-04-09"
+ },
+ {
+  "productId": 1006,
+  "registrationNumber": "T7-1006",
+  "productName": "OVAZOLEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "16 Jul 2022",
+  "expiresAt": "2027-07-16"
+ },
+ {
+  "productId": 1008,
+  "registrationNumber": "T8-1007",
+  "productName": "CUROVAEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 23, 2023",
+  "expiresAt": "2028-10-23"
+ },
+ {
+  "productId": 1009,
+  "registrationNumber": "T9-1008",
+  "productName": "DRADRAIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2024-01-03",
+  "expiresAt": "2029-01-03"
+ },
+ {
+  "productId": 1010,
+  "registrationNumber": "T1-1009",
+  "productName": "OVARISEX 5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "10/04/2025",
+  "expiresAt": "2030-04-10"
+ },
+ {
+  "productId": 1011,
+  "registrationNumber": "T2-1010",
+  "productName": "VENGALIN 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "17 Jul 2021",
+  "expiresAt": "2026-07-17",
+  "applicantEmail": "regulatory10@demo.example",
+  "applicantPhone": "08000000010"
+ },
+ {
+  "productId": 1012,
+  "registrationNumber": "T3-1011",
+  "productName": "TANGALIN 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 24, 2022",
+  "expiresAt": "2027-10-24"
+ },
+ {
+  "productId": 1013,
+  "registrationNumber": "T4-1012",
+  "productName": "CURMAREX 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2023-01-04",
+  "expiresAt": "2028-01-04"
+ },
+ {
+  "productId": 1014,
+  "registrationNumber": "T5-1013",
+  "productName": "ZOLPRIIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "11/04/2024",
+  "expiresAt": "2029-04-11"
+ },
+ {
+  "productId": 1016,
+  "registrationNumber": "T6-1014",
+  "productName": "VENBEXIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "18 Jul 2025",
+  "expiresAt": "2030-07-18"
+ },
+ {
+  "productId": 1017,
+  "registrationNumber": "T7-1015",
+  "productName": "GALTANEX 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 25, 2021",
+  "expiresAt": "2026-10-25"
+ },
+ {
+  "productId": 1018,
+  "registrationNumber": "T8-1016",
+  "productName": "LEXZOLIN 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2022-01-05",
+  "expiresAt": "2027-01-05"
+ },
+ {
+  "productId": 1019,
+  "registrationNumber": "T9-1017",
+  "productName": "LEXFENIN 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 503,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "0000-00-00",
+  "expiresAt": "2028-04-12"
+ },
+ {
+  "productId": 1020,
+  "registrationNumber": "T1-1018",
+  "productName": "PRINORIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "19 Jul 2024",
+  "expiresAt": "2029-07-19"
+ },
+ {
+  "productId": 1021,
+  "registrationNumber": "T2-1019",
+  "productName": "BEXLEXIN 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "approvedAt": "October 26, 2025",
+  "expiresAt": "2030-10-26"
+ },
+ {
+  "productId": 1022,
+  "registrationNumber": "T3-1020",
+  "productName": "OVACURIN 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 506,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2021-01-06",
+  "expiresAt": "2026-01-06",
+  "applicantEmail": "regulatory20@demo.example",
+  "applicantPhone": "08000000020"
+ },
+ {
+  "productId": 1024,
+  "registrationNumber": "T4-1021",
+  "productName": "RISLEXEX 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 500,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "13/04/2022",
+  "expiresAt": "2027-04-13"
+ },
+ {
+  "productId": 1025,
+  "registrationNumber": "T5-1022",
+  "productName": "FENMAREX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 501,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "20 Jul 2023",
+  "expiresAt": "2028-07-20"
+ },
+ {
+  "productId": 1026,
+  "registrationNumber": "T6-1023",
+  "productName": "ZOLTANEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 502,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 27, 2024",
+  "expiresAt": "2029-10-27"
+ },
+ {
+  "productId": 1027,
+  "registrationNumber": "T7-1024",
+  "productName": "PRICUREX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 503,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2025-01-07",
+  "expiresAt": "2030-01-07"
+ },
+ {
+  "productId": 1028,
+  "registrationNumber": "T8-1025",
+  "productName": "NORKELEX 5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "14/04/2021",
+  "expiresAt": "2026-04-14"
+ },
+ {
+  "productId": 1029,
+  "registrationNumber": "T9-1026",
+  "productName": "TANLEXEX 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "21 Jul 2022",
+  "expiresAt": "2027-07-21"
+ },
+ {
+  "productId": 1030,
+  "registrationNumber": "T1-1027",
+  "productName": "RISDRAEX 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 1, 2023",
+  "expiresAt": "2028-10-01"
+ },
+ {
+  "productId": 1032,
+  "registrationNumber": "T2-1028",
+  "productName": "BEXBEXEX 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2024-01-08",
+  "expiresAt": "2029-01-08"
+ },
+ {
+  "productId": 1033,
+  "registrationNumber": "T3-1029",
+  "productName": "GALHEPEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 501,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "15/04/2025",
+  "expiresAt": "2030-04-15"
+ },
+ {
+  "productId": 1034,
+  "registrationNumber": "T4-1030",
+  "productName": "VENHEPIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "22 Jul 2021",
+  "expiresAt": "2026-07-22",
+  "applicantEmail": "regulatory30@demo.example",
+  "applicantPhone": "08000000030"
+ },
+ {
+  "productId": 1035,
+  "registrationNumber": "T5-1031",
+  "productName": "DRAKELIN 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 2, 2022",
+  "expiresAt": "2019-01-01"
+ },
+ {
+  "productId": 1036,
+  "registrationNumber": "T6-1032",
+  "productName": "BEXDRAEX 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2023-01-09",
+  "expiresAt": "2028-01-09"
+ },
+ {
+  "productId": 1037,
+  "registrationNumber": "T7-1033",
+  "productName": "ZOLZOLEX 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "16/04/2024",
+  "expiresAt": "2029-04-16"
+ },
+ {
+  "productId": 1038,
+  "registrationNumber": "T8-1034",
+  "productName": "NORHEPEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "23 Jul 2025",
+  "expiresAt": "2030-07-23"
+ },
+ {
+  "productId": 1040,
+  "registrationNumber": "T9-1035",
+  "productName": "RISGALIN 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 3, 2021",
+  "expiresAt": "2026-10-03"
+ },
+ {
+  "productId": 1041,
+  "registrationNumber": "T1-1036",
+  "productName": "MARBEXIN 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2022-01-10",
+  "expiresAt": "2027-01-10"
+ },
+ {
+  "productId": 1042,
+  "registrationNumber": "T2-1037",
+  "productName": "BEXNOREX 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "17/04/2023",
+  "expiresAt": "2028-04-17"
+ },
+ {
+  "productId": 1043,
+  "registrationNumber": "T3-1038",
+  "productName": "DRAKELEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "approvedAt": "24 Jul 2024",
+  "expiresAt": "2029-07-24"
+ },
+ {
+  "productId": 1044,
+  "registrationNumber": "T4-1039",
+  "productName": "MARLEXEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 4, 2025",
+  "expiresAt": "2030-10-04"
+ },
+ {
+  "productId": 1045,
+  "registrationNumber": "T5-1040",
+  "productName": "HEPCUREX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "sometime in 2024",
+  "expiresAt": "2026-01-11",
+  "applicantEmail": "regulatory40@demo.example",
+  "applicantPhone": "08000000040"
+ },
+ {
+  "productId": 1046,
+  "registrationNumber": "T6-1041",
+  "productName": "VENKELEX 5 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 506,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "18/04/2022",
+  "expiresAt": "2027-04-18"
+ },
+ {
+  "productId": 1048,
+  "registrationNumber": "T7-1042",
+  "productName": "HEPCURIN 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "25 Jul 2023",
+  "expiresAt": "2028-07-25"
+ },
+ {
+  "productId": 1049,
+  "registrationNumber": "T8-1043",
+  "productName": "VENOVAEX 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 5, 2024",
+  "expiresAt": "2029-10-05"
+ },
+ {
+  "productId": 1050,
+  "registrationNumber": "T9-1044",
+  "productName": "CURGALIN 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2025-01-12",
+  "expiresAt": "2030-01-12"
+ },
+ {
+  "productId": 1051,
+  "registrationNumber": "T1-1045",
+  "productName": "OVADRAIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "19/04/2021",
+  "expiresAt": "2026-04-19"
+ },
+ {
+  "productId": 1052,
+  "registrationNumber": "T2-1046",
+  "productName": "MAROVAEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "26 Jul 2022",
+  "expiresAt": "2027-07-26"
+ },
+ {
+  "productId": 1053,
+  "registrationNumber": "T3-1047",
+  "productName": "OVAHEPIN 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 6, 2023",
+  "expiresAt": "2028-10-06"
+ },
+ {
+  "productId": 1054,
+  "registrationNumber": "T4-1048",
+  "productName": "KELZOLIN 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2024-01-13",
+  "expiresAt": "2029-01-13"
+ },
+ {
+  "productId": 1056,
+  "registrationNumber": "T5-1049",
+  "productName": "GALDRAIN 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "20/04/2025",
+  "expiresAt": "2030-04-20"
+ },
+ {
+  "productId": 1057,
+  "registrationNumber": "T6-1050",
+  "productName": "HEPDRAEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Under Review",
+  "applicant": {
+   "id": 501,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "27 Jul 2021",
+  "expiresAt": "2026-07-27",
+  "applicantEmail": "regulatory50@demo.example",
+  "applicantPhone": "08000000050"
+ },
+ {
+  "productId": 1058,
+  "registrationNumber": "T7-1051",
+  "productName": "RISKELIN 500 CAPSULES",
+  "category": "Drugs",
+  "status": "ACTIVE ",
+  "applicant": {
+   "id": 502,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 7, 2022",
+  "expiresAt": "2027-10-07"
+ },
+ {
+  "productId": 1059,
+  "registrationNumber": "T8-1052",
+  "productName": "KELVENIN 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2023-01-14",
+  "expiresAt": "2028-01-14"
+ },
+ {
+  "productId": 1060,
+  "registrationNumber": "T9-1053",
+  "productName": "LEXMAREX 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 504,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "21/04/2024",
+  "expiresAt": "2029-04-21"
+ },
+ {
+  "productId": 1061,
+  "registrationNumber": "T1-1054",
+  "productName": "RISOVAEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "1 Jul 2025",
+  "expiresAt": "2030-07-01"
+ },
+ {
+  "productId": 1062,
+  "registrationNumber": "T2-1055",
+  "productName": "OVAHEPEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 8, 2021",
+  "expiresAt": "2026-10-08"
+ },
+ {
+  "productId": 1064,
+  "registrationNumber": "T3-1056",
+  "productName": "FENKELIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2022-01-15",
+  "expiresAt": "2027-01-15"
+ },
+ {
+  "productId": 1065,
+  "registrationNumber": "T4-1057",
+  "productName": "OVAKELEX 5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "approvedAt": "22/04/2023",
+  "expiresAt": "2028-04-22"
+ },
+ {
+  "productId": 1066,
+  "registrationNumber": "T5-1058",
+  "productName": "CURLEXEX 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "2 Jul 2024",
+  "expiresAt": "2029-07-02"
+ },
+ {
+  "productId": 1067,
+  "registrationNumber": "T6-1059",
+  "productName": "BEXZOLIN 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 9, 2025",
+  "expiresAt": "2030-10-09"
+ },
+ {
+  "productId": 1068,
+  "registrationNumber": "T7-1060",
+  "productName": "GALMARIN 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "ZZ99",
+  "approvedAt": "2021-01-16",
+  "expiresAt": "2026-01-16",
+  "applicantEmail": "regulatory60@demo.example",
+  "applicantPhone": "08000000060"
+ },
+ {
+  "productId": 1069,
+  "registrationNumber": "T8-1061",
+  "productName": "FENTANEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "23/04/2022",
+  "expiresAt": "2027-04-23"
+ },
+ {
+  "productId": 1070,
+  "registrationNumber": "T9-1062",
+  "productName": "VENLEXIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "3 Jul 2023",
+  "expiresAt": "2028-07-03"
+ },
+ {
+  "productId": 1072,
+  "registrationNumber": "T1-1063",
+  "productName": "GALZOLIN 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 10, 2024",
+  "expiresAt": "2029-10-10"
+ },
+ {
+  "productId": 1073,
+  "registrationNumber": "T2-1064",
+  "productName": "ZOLRISEX 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2025-01-17",
+  "expiresAt": "2030-01-17"
+ },
+ {
+  "productId": 1074,
+  "registrationNumber": "T3-1065",
+  "productName": "FENGALIN 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 502,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "24/04/2021",
+  "expiresAt": "2026-04-24"
+ },
+ {
+  "productId": 1075,
+  "registrationNumber": "T4-1066",
+  "productName": "CURRISIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "4 Jul 2022",
+  "expiresAt": "2027-07-04"
+ },
+ {
+  "productId": 1076,
+  "registrationNumber": "T5-1067",
+  "productName": "RISCUREX 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 11, 2023",
+  "expiresAt": "2028-10-11"
+ },
+ {
+  "productId": 1077,
+  "registrationNumber": "T6-1068",
+  "productName": "BEXHEPIN 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2024-01-18",
+  "expiresAt": "2029-01-18"
+ },
+ {
+  "productId": 1078,
+  "registrationNumber": "T7-1069",
+  "productName": "CURLEXIN 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "25/04/2025",
+  "expiresAt": "2030-04-25"
+ },
+ {
+  "productId": 1080,
+  "registrationNumber": "T8-1070",
+  "productName": "VENZOLIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "as directed",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "5 Jul 2021",
+  "expiresAt": "2026-07-05",
+  "applicantEmail": "regulatory70@demo.example",
+  "applicantPhone": "08000000070"
+ },
+ {
+  "productId": 1081,
+  "registrationNumber": "T9-1071",
+  "productName": "FENVENIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 12, 2022",
+  "expiresAt": "2027-10-12"
+ },
+ {
+  "productId": 1082,
+  "registrationNumber": "T1-1072",
+  "productName": "ZOLRISIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2023-01-19",
+  "expiresAt": "2028-01-19"
+ },
+ {
+  "productId": 1083,
+  "registrationNumber": "T2-1073",
+  "productName": "OVAPRIEX 5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "26/04/2024",
+  "expiresAt": "2029-04-26"
+ },
+ {
+  "productId": 1084,
+  "registrationNumber": "T3-1074",
+  "productName": "MARLEXIN 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "6 Jul 2025",
+  "expiresAt": "2030-07-06"
+ },
+ {
+  "productId": 1085,
+  "registrationNumber": "T4-1075",
+  "productName": "FENVENEX 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 13, 2021",
+  "expiresAt": "2026-10-13"
+ },
+ {
+  "productId": 1086,
+  "registrationNumber": "T5-1076",
+  "productName": "CURZOLIN 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "approvedAt": "2022-01-20",
+  "expiresAt": "2027-01-20"
+ },
+ {
+  "productId": 1088,
+  "registrationNumber": "T6-1077",
+  "productName": "LEXDRAIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 500,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "27/04/2023",
+  "expiresAt": "2028-04-27"
+ },
+ {
+  "productId": 1089,
+  "registrationNumber": "T7-1078",
+  "productName": "OVAPRIIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "7 Jul 2024",
+  "expiresAt": "2029-07-07"
+ },
+ {
+  "productId": 1090,
+  "registrationNumber": "T8-1079",
+  "productName": "GALRISIN 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 14, 2025",
+  "expiresAt": "2030-10-14"
+ },
+ {
+  "productId": 1091,
+  "registrationNumber": "T9-1080",
+  "productName": "KELKELEX 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500 mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2021-01-21",
+  "expiresAt": "2026-01-21",
+  "applicantEmail": "regulatory80@demo.example",
+  "applicantPhone": "08000000080"
+ },
+ {
+  "productId": 1092,
+  "registrationNumber": "T1-1081",
+  "productName": "FENKELEX 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "01/04/2022",
+  "expiresAt": "2027-04-01"
+ },
+ {
+  "productId": 1093,
+  "registrationNumber": "T2-1082",
+  "productName": "ZOLKELIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "8 Jul 2023",
+  "expiresAt": "2028-07-08"
+ },
+ {
+  "productId": 1094,
+  "registrationNumber": "T3-1083",
+  "productName": "DRANOREX 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 15, 2024",
+  "expiresAt": "2029-10-15"
+ },
+ {
+  "productId": 1096,
+  "registrationNumber": "T4-1084",
+  "productName": "GALVENEX 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2025-01-22",
+  "expiresAt": "2030-01-22"
+ },
+ {
+  "productId": 1097,
+  "registrationNumber": "T5-1085",
+  "productName": "PRIFENIN 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "02/04/2021",
+  "expiresAt": "2026-04-02"
+ },
+ {
+  "productId": 1098,
+  "registrationNumber": "T6-1086",
+  "productName": "MARHEPEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "9 Jul 2022",
+  "expiresAt": "2027-07-09"
+ },
+ {
+  "productId": 1099,
+  "registrationNumber": "T7-1087",
+  "productName": "VENPRIEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 16, 2023",
+  "expiresAt": "2028-10-16"
+ },
+ {
+  "productId": 1100,
+  "registrationNumber": "T8-1088",
+  "productName": "MARMARIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2024-01-23",
+  "expiresAt": "2029-01-23"
+ },
+ {
+  "productId": 1101,
+  "registrationNumber": "T9-1089",
+  "productName": "ZOLZOLIN 5 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 505,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "03/04/2025",
+  "expiresAt": "2030-04-03"
+ },
+ {
+  "productId": 1102,
+  "registrationNumber": "T1-1090",
+  "productName": "LEXPRIEX 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "10 Jul 2021",
+  "expiresAt": "2026-07-10",
+  "applicantEmail": "regulatory90@demo.example",
+  "applicantPhone": "08000000090"
+ },
+ {
+  "productId": 1104,
+  "registrationNumber": "T2-1091",
+  "productName": "BEXVENEX 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 17, 2022",
+  "expiresAt": "2027-10-17"
+ },
+ {
+  "productId": 1105,
+  "registrationNumber": "T3-1092",
+  "productName": "MARVENEX 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2023-01-24",
+  "expiresAt": "2028-01-24"
+ },
+ {
+  "productId": 1106,
+  "registrationNumber": "T4-1093",
+  "productName": "MAROVAIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "04/04/2024",
+  "expiresAt": "2029-04-04"
+ },
+ {
+  "productId": 1107,
+  "registrationNumber": "T5-1094",
+  "productName": "BEXCUREX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "11 Jul 2025",
+  "expiresAt": "2030-07-11"
+ },
+ {
+  "productId": 1108,
+  "registrationNumber": "T6-1095",
+  "productName": "PRIBEXEX 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "approvedAt": "October 18, 2021",
+  "expiresAt": "2026-10-18"
+ },
+ {
+  "productId": 1109,
+  "registrationNumber": "T7-1096",
+  "productName": "CURKELIN 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2022-01-25",
+  "expiresAt": "2027-01-25"
+ },
+ {
+  "productId": 1110,
+  "registrationNumber": "T8-1097",
+  "productName": "GALCUREX 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "05/04/2023",
+  "expiresAt": "2028-04-05"
+ },
+ {
+  "productId": 1112,
+  "registrationNumber": "T9-1098",
+  "productName": "CURNORIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "12 Jul 2024",
+  "expiresAt": "2029-07-12"
+ },
+ {
+  "productId": 1113,
+  "registrationNumber": "T1-1099",
+  "productName": "MARDRAIN 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 19, 2025",
+  "expiresAt": "2030-10-19"
+ },
+ {
+  "productId": 1114,
+  "registrationNumber": "T2-1100",
+  "productName": "DRAPRIEX 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2021-01-26",
+  "expiresAt": "2030-06-30",
+  "applicantEmail": "regulatory100@demo.example",
+  "applicantPhone": "08000000100"
+ },
+ {
+  "productId": 1115,
+  "registrationNumber": "T2-1100",
+  "productName": "GALBEXIN 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "06/04/2022",
+  "expiresAt": "2030-06-30"
+ },
+ {
+  "productId": 1116,
+  "registrationNumber": "T4-1102",
+  "productName": "OVAFENIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "13 Jul 2023",
+  "expiresAt": "2028-07-13"
+ },
+ {
+  "productId": 1117,
+  "registrationNumber": "T5-1103",
+  "productName": "NORPRIEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 20, 2024",
+  "expiresAt": "2029-10-20"
+ },
+ {
+  "productId": 1118,
+  "registrationNumber": "T6-1104",
+  "productName": "LEXTANEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2025-01-27",
+  "expiresAt": "2030-01-27"
+ },
+ {
+  "productId": 1120,
+  "registrationNumber": "T7-1105",
+  "productName": "BEXVENIN 5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "07/04/2021",
+  "expiresAt": "2026-04-07"
+ },
+ {
+  "productId": 1121,
+  "registrationNumber": "T8-1106",
+  "productName": "ZOLCURIN 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "14 Jul 2022",
+  "expiresAt": "2027-07-14"
+ },
+ {
+  "productId": 1122,
+  "registrationNumber": "T9-1107",
+  "productName": "KELVENEX 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 21, 2023",
+  "expiresAt": "2028-10-21"
+ },
+ {
+  "productId": 1123,
+  "registrationNumber": "T1-1108",
+  "productName": "VENKELIN 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2024-01-01",
+  "expiresAt": "2029-01-01"
+ },
+ {
+  "productId": 1124,
+  "registrationNumber": "T2-1109",
+  "productName": "TANKELIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "08/04/2025",
+  "expiresAt": "2030-04-08"
+ },
+ {
+  "productId": 1125,
+  "registrationNumber": "T3-1110",
+  "productName": "ZOLGALIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "15 Jul 2021",
+  "expiresAt": "2026-07-15",
+  "applicantEmail": "regulatory110@demo.example",
+  "applicantPhone": "08000000110"
+ },
+ {
+  "productId": 1126,
+  "registrationNumber": "T3-1110",
+  "productName": "KELHEPEX 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 22, 2022",
+  "expiresAt": "2027-10-22"
+ },
+ {
+  "productId": 1128,
+  "registrationNumber": "T5-1112",
+  "productName": "LEXLEXEX 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2023-01-02",
+  "expiresAt": "2028-01-02"
+ },
+ {
+  "productId": 1129,
+  "registrationNumber": "T6-1113",
+  "productName": "PRIRISIN 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 501,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "09/04/2024",
+  "expiresAt": "2029-04-09"
+ },
+ {
+  "productId": 1130,
+  "registrationNumber": "T7-1114",
+  "productName": "FENRISEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "approvedAt": "16 Jul 2025",
+  "expiresAt": "2030-07-16"
+ },
+ {
+  "productId": 1131,
+  "registrationNumber": "T8-1115",
+  "productName": "NORKELIN 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 23, 2021",
+  "expiresAt": "2026-10-23"
+ },
+ {
+  "productId": 1132,
+  "registrationNumber": "T9-1116",
+  "productName": "DRANORIN 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2022-01-03",
+  "expiresAt": "2027-01-03"
+ },
+ {
+  "productId": 1133,
+  "registrationNumber": "T1-1117",
+  "productName": "RISMARIN 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "10/04/2023",
+  "expiresAt": "2028-04-10"
+ },
+ {
+  "productId": 1134,
+  "registrationNumber": "T2-1118",
+  "productName": "FENCUREX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "17 Jul 2024",
+  "expiresAt": "2029-07-17"
+ },
+ {
+  "productId": 1136,
+  "registrationNumber": "T3-1119",
+  "productName": "ZOLBEXEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 24, 2025",
+  "expiresAt": "2030-10-24"
+ },
+ {
+  "productId": 1137,
+  "registrationNumber": "T4-1120",
+  "productName": "LEXLEXIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2021-01-04",
+  "expiresAt": "2026-01-04",
+  "applicantEmail": "regulatory120@demo.example",
+  "applicantPhone": "08000000120"
+ },
+ {
+  "productId": 1138,
+  "registrationNumber": "T4-1120",
+  "productName": "VENLEXEX 5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "11/04/2022",
+  "expiresAt": "2027-04-11"
+ },
+ {
+  "productId": 1139,
+  "registrationNumber": "T6-1122",
+  "productName": "LEXBEXIN 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "18 Jul 2023",
+  "expiresAt": "2028-07-18"
+ },
+ {
+  "productId": 1140,
+  "registrationNumber": "T7-1123",
+  "productName": "LEXCUREX 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 25, 2024",
+  "expiresAt": "2029-10-25"
+ },
+ {
+  "productId": 1141,
+  "registrationNumber": "T8-1124",
+  "productName": "NOROVAIN 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2025-01-05",
+  "expiresAt": "2030-01-05"
+ },
+ {
+  "productId": 1142,
+  "registrationNumber": "T9-1125",
+  "productName": "CURCUREX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 506,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "12/04/2021",
+  "expiresAt": "2026-04-12"
+ },
+ {
+  "productId": 1144,
+  "registrationNumber": "T1-1126",
+  "productName": "HEPKELIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "19 Jul 2022",
+  "expiresAt": "2027-07-19"
+ },
+ {
+  "productId": 1145,
+  "registrationNumber": "T2-1127",
+  "productName": "LEXGALEX 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 26, 2023",
+  "expiresAt": "2028-10-26"
+ },
+ {
+  "productId": 1146,
+  "registrationNumber": "T3-1128",
+  "productName": "MARKELEX 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2024-01-06",
+  "expiresAt": "2029-01-06"
+ },
+ {
+  "productId": 1147,
+  "registrationNumber": "T4-1129",
+  "productName": "HEPZOLIN 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "13/04/2025",
+  "expiresAt": "2030-04-13"
+ },
+ {
+  "productId": 1148,
+  "registrationNumber": "T5-1130",
+  "productName": "PRIDRAEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "20 Jul 2021",
+  "expiresAt": "2026-07-20",
+  "applicantEmail": "regulatory130@demo.example",
+  "applicantPhone": "08000000130"
+ },
+ {
+  "productId": 1149,
+  "registrationNumber": "T5-1130",
+  "productName": "GALVENIN 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 27, 2022",
+  "expiresAt": "2027-10-27"
+ },
+ {
+  "productId": 1150,
+  "registrationNumber": "T7-1132",
+  "productName": "FENZOLIN 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2023-01-07",
+  "expiresAt": "2028-01-07"
+ },
+ {
+  "productId": 1152,
+  "registrationNumber": "T8-1133",
+  "productName": "KELFENIN 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "approvedAt": "14/04/2024",
+  "expiresAt": "2029-04-14"
+ },
+ {
+  "productId": 1153,
+  "registrationNumber": "T9-1134",
+  "productName": "DRABEXIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "21 Jul 2025",
+  "expiresAt": "2030-07-21"
+ },
+ {
+  "productId": 1154,
+  "registrationNumber": "T1-1135",
+  "productName": "PRIHEPIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 1, 2021",
+  "expiresAt": "2026-10-01"
+ },
+ {
+  "productId": 1155,
+  "registrationNumber": "T2-1136",
+  "productName": "TANMARIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2022-01-08",
+  "expiresAt": "2027-01-08"
+ },
+ {
+  "productId": 1156,
+  "registrationNumber": "T3-1137",
+  "productName": "CURDRAEX 5 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 504,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "15/04/2023",
+  "expiresAt": "2028-04-15"
+ },
+ {
+  "productId": 1157,
+  "registrationNumber": "T4-1138",
+  "productName": "ZOLGALEX 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "22 Jul 2024",
+  "expiresAt": "2029-07-22"
+ },
+ {
+  "productId": 1158,
+  "registrationNumber": "T5-1139",
+  "productName": "LEXNORIN 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 2, 2025",
+  "expiresAt": "2030-10-02"
+ },
+ {
+  "productId": 1160,
+  "registrationNumber": "T6-1140",
+  "productName": "TANFENIN 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2021-01-09",
+  "expiresAt": "2026-01-09",
+  "applicantEmail": "regulatory140@demo.example",
+  "applicantPhone": "08000000140"
+ },
+ {
+  "productId": 1161,
+  "registrationNumber": "T6-1140",
+  "productName": "BEXOVAIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "16/04/2022",
+  "expiresAt": "2027-04-16"
+ },
+ {
+  "productId": 1162,
+  "registrationNumber": "T8-1142",
+  "productName": "PRILEXIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "23 Jul 2023",
+  "expiresAt": "2028-07-23"
+ },
+ {
+  "productId": 1163,
+  "registrationNumber": "T9-1143",
+  "productName": "LEXNOREX 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 3, 2024",
+  "expiresAt": "2029-10-03"
+ },
+ {
+  "productId": 1164,
+  "registrationNumber": "T1-1144",
+  "productName": "NORDRAIN 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2025-01-10",
+  "expiresAt": "2030-01-10"
+ },
+ {
+  "productId": 1165,
+  "registrationNumber": "T2-1145",
+  "productName": "LEXFENEX 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "17/04/2021",
+  "expiresAt": "2026-04-17"
+ },
+ {
+  "productId": 1166,
+  "registrationNumber": "T3-1146",
+  "productName": "RISFENEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "24 Jul 2022",
+  "expiresAt": "2027-07-24"
+ },
+ {
+  "productId": 1168,
+  "registrationNumber": "T4-1147",
+  "productName": "GALNOREX 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 4, 2023",
+  "expiresAt": "2028-10-04"
+ },
+ {
+  "productId": 1169,
+  "registrationNumber": "T5-1148",
+  "productName": "RISNORIN 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2024-01-11",
+  "expiresAt": "2029-01-11"
+ },
+ {
+  "productId": 1170,
+  "registrationNumber": "T6-1149",
+  "productName": "NORFENEX 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 502,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "18/04/2025",
+  "expiresAt": "2030-04-18"
+ },
+ {
+  "productId": 1171,
+  "registrationNumber": "T7-1150",
+  "productName": "ZOLVENIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "25 Jul 2021",
+  "expiresAt": "2026-10-08",
+  "applicantEmail": "regulatory150@demo.example",
+  "applicantPhone": "08000000150"
+ },
+ {
+  "productId": 1172,
+  "registrationNumber": "T8-1151",
+  "productName": "HEPMARIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 5, 2022",
+  "expiresAt": "2026-10-12"
+ },
+ {
+  "productId": 1173,
+  "registrationNumber": "T9-1152",
+  "productName": "KELMARIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "approvedAt": "2023-01-12",
+  "expiresAt": "2026-10-14"
+ },
+ {
+  "productId": 1174,
+  "registrationNumber": "T1-1153",
+  "productName": "CURVENIN 5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "19/04/2024",
+  "expiresAt": "2029-04-19"
+ },
+ {
+  "productId": 1176,
+  "registrationNumber": "T2-1154",
+  "productName": "NORGALIN 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "26 Jul 2025",
+  "expiresAt": "2030-07-26"
+ },
+ {
+  "productId": 1177,
+  "registrationNumber": "T3-1155",
+  "productName": "NORVENIN 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 6, 2021",
+  "expiresAt": "2026-10-06"
+ },
+ {
+  "productId": 1178,
+  "registrationNumber": "T4-1156",
+  "productName": "PRIBEXIN 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2022-01-13",
+  "expiresAt": "2027-01-13"
+ },
+ {
+  "productId": 1179,
+  "registrationNumber": "T5-1157",
+  "productName": "OVACUREX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "20/04/2023",
+  "expiresAt": "2028-04-20"
+ },
+ {
+  "productId": 1180,
+  "registrationNumber": "T6-1158",
+  "productName": "NORNOREX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "27 Jul 2024",
+  "expiresAt": "2029-07-27"
+ },
+ {
+  "productId": 1181,
+  "registrationNumber": "T7-1159",
+  "productName": "RISBEXEX 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 7, 2025",
+  "expiresAt": "2030-10-07"
+ },
+ {
+  "productId": 1182,
+  "registrationNumber": "T8-1160",
+  "productName": "LEXBEXEX 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2021-01-14",
+  "expiresAt": "2026-01-14",
+  "applicantEmail": "regulatory160@demo.example",
+  "applicantPhone": "08000000160"
+ },
+ {
+  "productId": 1184,
+  "registrationNumber": "T9-1161",
+  "productName": "TANNORIN 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 500,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "21/04/2022",
+  "expiresAt": "2027-04-21"
+ },
+ {
+  "productId": 1185,
+  "registrationNumber": "T1-1162",
+  "productName": "GALFENEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "1 Jul 2023",
+  "expiresAt": "2028-07-01"
+ },
+ {
+  "productId": 1186,
+  "registrationNumber": "T2-1163",
+  "productName": "GALOVAEX 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 8, 2024",
+  "expiresAt": "2029-10-08"
+ },
+ {
+  "productId": 1187,
+  "registrationNumber": "T3-1164",
+  "productName": "BEXRISIN 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2025-01-15",
+  "expiresAt": "2030-01-15"
+ },
+ {
+  "productId": 1188,
+  "registrationNumber": "T4-1165",
+  "productName": "TANNOREX 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "22/04/2021",
+  "expiresAt": "2026-04-22"
+ },
+ {
+  "productId": 1189,
+  "registrationNumber": "T5-1166",
+  "productName": "DRAFENIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "2 Jul 2022",
+  "expiresAt": "2027-07-02"
+ },
+ {
+  "productId": 1190,
+  "registrationNumber": "T6-1167",
+  "productName": "BEXTANEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 9, 2023",
+  "expiresAt": "2028-10-09"
+ },
+ {
+  "productId": 1192,
+  "registrationNumber": "T7-1168",
+  "productName": "VENVENIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2024-01-16",
+  "expiresAt": "2029-01-16"
+ },
+ {
+  "productId": 1193,
+  "registrationNumber": "T8-1169",
+  "productName": "HEPLEXIN 5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "23/04/2025",
+  "expiresAt": "2030-04-23"
+ },
+ {
+  "productId": 1194,
+  "registrationNumber": "T9-1170",
+  "productName": "HEPRISEX 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "3 Jul 2021",
+  "expiresAt": "2026-07-03",
+  "applicantEmail": "regulatory170@demo.example",
+  "applicantPhone": "08000000170"
+ },
+ {
+  "productId": 1195,
+  "registrationNumber": "T1-1171",
+  "productName": "GALMAREX 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "approvedAt": "October 10, 2022",
+  "expiresAt": "2027-10-10"
+ },
+ {
+  "productId": 1196,
+  "registrationNumber": "T2-1172",
+  "productName": "BEXZOLEX 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2023-01-17",
+  "expiresAt": "2028-01-17"
+ },
+ {
+  "productId": 1197,
+  "registrationNumber": "T3-1173",
+  "productName": "OVALEXEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 505,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "24/04/2024",
+  "expiresAt": "2029-04-24"
+ },
+ {
+  "productId": 1198,
+  "registrationNumber": "T4-1174",
+  "productName": "CURBEXIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "4 Jul 2025",
+  "expiresAt": "2030-07-04"
+ },
+ {
+  "productId": 1200,
+  "registrationNumber": "T5-1175",
+  "productName": "PRIFENEX 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 11, 2021",
+  "expiresAt": "2026-10-11"
+ },
+ {
+  "productId": 1201,
+  "registrationNumber": "T6-1176",
+  "productName": "PRIKELEX 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2022-01-18",
+  "expiresAt": "2027-01-18"
+ },
+ {
+  "productId": 1202,
+  "registrationNumber": "T7-1177",
+  "productName": "CURKELEX 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "25/04/2023",
+  "expiresAt": "2028-04-25"
+ },
+ {
+  "productId": 1203,
+  "registrationNumber": "T8-1178",
+  "productName": "PRIDRAIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "5 Jul 2024",
+  "expiresAt": "2029-07-05"
+ },
+ {
+  "productId": 1204,
+  "registrationNumber": "T9-1179",
+  "productName": "NORLEXIN 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 12, 2025",
+  "expiresAt": "2030-10-12"
+ },
+ {
+  "productId": 1205,
+  "registrationNumber": "T1-1180",
+  "productName": "FENLEXEX 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2021-01-19",
+  "expiresAt": "2026-01-19",
+  "applicantEmail": "regulatory180@demo.example",
+  "applicantPhone": "08000000180"
+ },
+ {
+  "productId": 1206,
+  "registrationNumber": "T2-1181",
+  "productName": "TANCURIN 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "26/04/2022",
+  "expiresAt": "2027-04-26"
+ },
+ {
+  "productId": 1208,
+  "registrationNumber": "T3-1182",
+  "productName": "BEXFENEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "6 Jul 2023",
+  "expiresAt": "2028-07-06"
+ },
+ {
+  "productId": 1209,
+  "registrationNumber": "T4-1183",
+  "productName": "FENTANIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 13, 2024",
+  "expiresAt": "2029-10-13"
+ },
+ {
+  "productId": 1210,
+  "registrationNumber": "T5-1184",
+  "productName": "PRIVENIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2025-01-20",
+  "expiresAt": "2030-01-20"
+ },
+ {
+  "productId": 1211,
+  "registrationNumber": "T6-1185",
+  "productName": "TANHEPIN 5 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 503,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "27/04/2021",
+  "expiresAt": "2026-04-27"
+ },
+ {
+  "productId": 1212,
+  "registrationNumber": "T7-1186",
+  "productName": "NORFENIN 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "7 Jul 2022",
+  "expiresAt": "2027-07-07"
+ },
+ {
+  "productId": 1213,
+  "registrationNumber": "T8-1187",
+  "productName": "FENZOLEX 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 14, 2023",
+  "expiresAt": "2028-10-14"
+ },
+ {
+  "productId": 1214,
+  "registrationNumber": "T9-1188",
+  "productName": "KELLEXEX 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2024-01-21",
+  "expiresAt": "2029-01-21"
+ },
+ {
+  "productId": 1216,
+  "registrationNumber": "T1-1189",
+  "productName": "DRACURIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "01/04/2025",
+  "expiresAt": "2030-04-01"
+ },
+ {
+  "productId": 1217,
+  "registrationNumber": "T2-1190",
+  "productName": "VENTANEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "approvedAt": "8 Jul 2021",
+  "expiresAt": "2026-07-08",
+  "applicantEmail": "regulatory190@demo.example",
+  "applicantPhone": "08000000190"
+ },
+ {
+  "productId": 1218,
+  "registrationNumber": "T3-1191",
+  "productName": "PRINOREX 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 15, 2022",
+  "expiresAt": "2027-10-15"
+ },
+ {
+  "productId": 1219,
+  "registrationNumber": "T4-1192",
+  "productName": "OVAVENIN 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2023-01-22",
+  "expiresAt": "2028-01-22"
+ },
+ {
+  "productId": 1220,
+  "registrationNumber": "T5-1193",
+  "productName": "PRIVENEX 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "02/04/2024",
+  "expiresAt": "2029-04-02"
+ },
+ {
+  "productId": 1221,
+  "registrationNumber": "T6-1194",
+  "productName": "VENDRAEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "9 Jul 2025",
+  "expiresAt": "2030-07-09"
+ },
+ {
+  "productId": 1222,
+  "registrationNumber": "T7-1195",
+  "productName": "PRILEXEX 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 16, 2021",
+  "expiresAt": "2026-10-16"
+ },
+ {
+  "productId": 1224,
+  "registrationNumber": "T8-1196",
+  "productName": "FENMARIN 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2022-01-23",
+  "expiresAt": "2027-01-23"
+ },
+ {
+  "productId": 1225,
+  "registrationNumber": "T9-1197",
+  "productName": "TANBEXEX 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 501,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "03/04/2023",
+  "expiresAt": "2028-04-03"
+ },
+ {
+  "productId": 1226,
+  "registrationNumber": "T1-1198",
+  "productName": "GALPRIEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "10 Jul 2024",
+  "expiresAt": "2029-07-10"
+ },
+ {
+  "productId": 1227,
+  "registrationNumber": "T2-1199",
+  "productName": "BEXMARIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 17, 2025",
+  "expiresAt": "2030-10-17"
+ },
+ {
+  "productId": 1228,
+  "registrationNumber": "T3-1200",
+  "productName": "NORTANEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2024-03-10",
+  "expiresAt": "2029-03-09",
+  "applicantEmail": "regulatory200@demo.example",
+  "applicantPhone": "08000000200"
+ },
+ {
+  "productId": 1229,
+  "registrationNumber": "T4-1201",
+  "productName": "HEPTANIN 5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "04/04/2022",
+  "expiresAt": "2027-04-04"
+ },
+ {
+  "productId": 1230,
+  "registrationNumber": "T5-1202",
+  "productName": "KELGALIN 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "11 Jul 2023",
+  "expiresAt": "2028-07-11"
+ },
+ {
+  "productId": 1232,
+  "registrationNumber": "T6-1203",
+  "productName": "OVALEXIN 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 18, 2024",
+  "expiresAt": "2029-10-18"
+ },
+ {
+  "productId": 1233,
+  "registrationNumber": "T7-1204",
+  "productName": "OVATANEX 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2025-01-25",
+  "expiresAt": "2030-01-25"
+ },
+ {
+  "productId": 1234,
+  "registrationNumber": "T8-1205",
+  "productName": "LEXTANIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 502,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "05/04/2021",
+  "expiresAt": "2026-04-05"
+ },
+ {
+  "productId": 1235,
+  "registrationNumber": "T9-1206",
+  "productName": "KELGALEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "12 Jul 2022",
+  "expiresAt": "2027-07-12"
+ },
+ {
+  "productId": 1236,
+  "registrationNumber": "T1-1207",
+  "productName": "LEXDRAEX 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 19, 2023",
+  "expiresAt": "2028-10-19"
+ },
+ {
+  "productId": 1237,
+  "registrationNumber": "T2-1208",
+  "productName": "KELCURIN 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2024-01-26",
+  "expiresAt": "2029-01-26"
+ },
+ {
+  "productId": 1238,
+  "registrationNumber": "T3-1209",
+  "productName": "KELBEXEX 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 506,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "approvedAt": "06/04/2025",
+  "expiresAt": "2030-04-06"
+ },
+ {
+  "productId": 1240,
+  "registrationNumber": "T4-1210",
+  "productName": "DRAFENEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "2021-01-15",
+  "expiresAt": "2026-01-14",
+  "applicantEmail": "regulatory210@demo.example",
+  "applicantPhone": "08000000210"
+ },
+ {
+  "productId": 1241,
+  "registrationNumber": "T5-1211",
+  "productName": "KELMAREX 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 20, 2022",
+  "expiresAt": "2027-10-20"
+ },
+ {
+  "productId": 1242,
+  "registrationNumber": "T6-1212",
+  "productName": "VENZOLEX 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2023-01-27",
+  "expiresAt": "2028-01-27"
+ },
+ {
+  "productId": 1243,
+  "registrationNumber": "T7-1213",
+  "productName": "PRIPRIIN 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "07/04/2024",
+  "expiresAt": "2029-04-07"
+ },
+ {
+  "productId": 1244,
+  "registrationNumber": "T8-1214",
+  "productName": "FENCURIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "14 Jul 2025",
+  "expiresAt": "2030-07-14"
+ },
+ {
+  "productId": 1245,
+  "registrationNumber": "T9-1215",
+  "productName": "HEPPRIEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "2021-12-20",
+  "expiresAt": "2026-12-01"
+ },
+ {
+  "productId": 1246,
+  "registrationNumber": "T1-1216",
+  "productName": "KELLEXIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2022-01-01",
+  "expiresAt": "2027-01-01"
+ },
+ {
+  "productId": 1248,
+  "registrationNumber": "T2-1217",
+  "productName": "CURNOREX 5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "08/04/2023",
+  "expiresAt": "2028-04-08"
+ },
+ {
+  "productId": 1249,
+  "registrationNumber": "T3-1218",
+  "productName": "TANDRAIN 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "15 Jul 2024",
+  "expiresAt": "2029-07-15"
+ },
+ {
+  "productId": 1250,
+  "registrationNumber": "T4-1219",
+  "productName": "DRAZOLEX 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 22, 2025",
+  "expiresAt": "2030-10-22"
+ },
+ {
+  "productId": 1251,
+  "registrationNumber": "T5-1220",
+  "productName": "CURTANIN 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2021-01-02",
+  "expiresAt": "2026-01-02",
+  "applicantEmail": "regulatory220@demo.example",
+  "applicantPhone": "08000000220"
+ },
+ {
+  "productId": 1252,
+  "registrationNumber": "T6-1221",
+  "productName": "GALDRAEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 504,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "09/04/2022",
+  "expiresAt": "2027-04-09"
+ },
+ {
+  "productId": 1253,
+  "registrationNumber": "T7-1222",
+  "productName": "PRITANIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "16 Jul 2023",
+  "expiresAt": "2028-07-16"
+ },
+ {
+  "productId": 1254,
+  "registrationNumber": "T8-1223",
+  "productName": "OVAOVAIN 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 23, 2024",
+  "expiresAt": "2029-10-23"
+ },
+ {
+  "productId": 1256,
+  "registrationNumber": "T9-1224",
+  "productName": "RISFENIN 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2025-01-03",
+  "expiresAt": "2030-01-03"
+ },
+ {
+  "productId": 1257,
+  "registrationNumber": "T1-1225",
+  "productName": "NORRISIN 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "10/04/2021",
+  "expiresAt": "2026-04-10"
+ },
+ {
+  "productId": 1258,
+  "registrationNumber": "T2-1226",
+  "productName": "TANRISIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "17 Jul 2022",
+  "expiresAt": "2027-07-17"
+ },
+ {
+  "productId": 1259,
+  "registrationNumber": "T3-1227",
+  "productName": "FENLEXIN 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 24, 2023",
+  "expiresAt": "2028-10-24"
+ },
+ {
+  "productId": 1260,
+  "registrationNumber": "T4-1228",
+  "productName": "FENHEPEX 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "approvedAt": "2024-01-04",
+  "expiresAt": "2029-01-04"
+ },
+ {
+  "productId": 1261,
+  "registrationNumber": "T5-1229",
+  "productName": "VENMARIN 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "11/04/2025",
+  "expiresAt": "2030-04-11"
+ },
+ {
+  "productId": 1262,
+  "registrationNumber": "T6-1230",
+  "productName": "RISMAREX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "18 Jul 2021",
+  "expiresAt": "2026-07-18",
+  "applicantEmail": "regulatory230@demo.example",
+  "applicantPhone": "08000000230"
+ },
+ {
+  "productId": 1264,
+  "registrationNumber": "T7-1231",
+  "productName": "HEPGALEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 25, 2022",
+  "expiresAt": "2027-10-25"
+ },
+ {
+  "productId": 1265,
+  "registrationNumber": "T8-1232",
+  "productName": "DRABEXEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2023-01-05",
+  "expiresAt": "2028-01-05"
+ },
+ {
+  "productId": 1266,
+  "registrationNumber": "T9-1233",
+  "productName": "GALTANIN 5 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 502,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "12/04/2024",
+  "expiresAt": "2029-04-12"
+ },
+ {
+  "productId": 1267,
+  "registrationNumber": "T1-1234",
+  "productName": "KELDRAEX 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "19 Jul 2025",
+  "expiresAt": "2030-07-19"
+ },
+ {
+  "productId": 1268,
+  "registrationNumber": "T2-1235",
+  "productName": "HEPVENIN 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 26, 2021",
+  "expiresAt": "2026-10-26"
+ },
+ {
+  "productId": 1269,
+  "registrationNumber": "T3-1236",
+  "productName": "NORLEXEX 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2022-01-06",
+  "expiresAt": "2027-01-06"
+ },
+ {
+  "productId": 1270,
+  "registrationNumber": "T4-1237",
+  "productName": "TANOVAEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "13/04/2023",
+  "expiresAt": "2028-04-13"
+ },
+ {
+  "productId": 1272,
+  "registrationNumber": "T5-1238",
+  "productName": "ZOLVENEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "20 Jul 2024",
+  "expiresAt": "2029-07-20"
+ },
+ {
+  "productId": 1273,
+  "registrationNumber": "T6-1239",
+  "productName": "LEXVENEX 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 27, 2025",
+  "expiresAt": "2030-10-27"
+ },
+ {
+  "productId": 1274,
+  "registrationNumber": "T7-1240",
+  "productName": "PRITANEX 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2021-01-07",
+  "expiresAt": "2026-01-07",
+  "applicantEmail": "regulatory240@demo.example",
+  "applicantPhone": "08000000240"
+ },
+ {
+  "productId": 1275,
+  "registrationNumber": "T8-1241",
+  "productName": "LEXRISIN 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "14/04/2022",
+  "expiresAt": "2027-04-14"
+ },
+ {
+  "productId": 1276,
+  "registrationNumber": "T9-1242",
+  "productName": "VENCUREX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "21 Jul 2023",
+  "expiresAt": "2028-07-21"
+ },
+ {
+  "productId": 1277,
+  "registrationNumber": "T1-1243",
+  "productName": "NORZOLIN 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 1, 2024",
+  "expiresAt": "2029-10-01"
+ },
+ {
+  "productId": 1278,
+  "registrationNumber": "T2-1244",
+  "productName": "NORPRIIN 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2025-01-08",
+  "expiresAt": "2030-01-08"
+ },
+ {
+  "productId": 1280,
+  "registrationNumber": "T3-1245",
+  "productName": "TANPRIEX 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 500,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "15/04/2021",
+  "expiresAt": "2026-04-15"
+ },
+ {
+  "productId": 1281,
+  "registrationNumber": "T4-1246",
+  "productName": "BEXTANIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "22 Jul 2022",
+  "expiresAt": "2027-07-22"
+ },
+ {
+  "productId": 1282,
+  "registrationNumber": "T5-1247",
+  "productName": "DRAVENIN 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "approvedAt": "October 2, 2023",
+  "expiresAt": "2028-10-02"
+ },
+ {
+  "productId": 1283,
+  "registrationNumber": "T6-1248",
+  "productName": "ZOLTANIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2024-01-09",
+  "expiresAt": "2029-01-09"
+ },
+ {
+  "productId": 1284,
+  "registrationNumber": "T7-1249",
+  "productName": "LEXHEPIN 5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "16/04/2025",
+  "expiresAt": "2030-04-16"
+ },
+ {
+  "productId": 1289,
+  "registrationNumber": "T2-1253",
+  "productName": "LEXMARIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "17/04/2024",
+  "expiresAt": "2029-04-17"
+ },
+ {
+  "productId": 1290,
+  "registrationNumber": "T3-1254",
+  "productName": "RISVENEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "24 Jul 2025",
+  "expiresAt": "2030-07-24"
+ },
+ {
+  "productId": 1291,
+  "registrationNumber": "T4-1255",
+  "productName": "NORRISEX 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 4, 2021",
+  "expiresAt": "2026-10-04"
+ },
+ {
+  "productId": 1292,
+  "registrationNumber": "T5-1256",
+  "productName": "KELOVAEX 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2022-01-11",
+  "expiresAt": "2027-01-11"
+ },
+ {
+  "productId": 1293,
+  "registrationNumber": "T6-1257",
+  "productName": "MARPRIIN 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 505,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "18/04/2023",
+  "expiresAt": "2028-04-18"
+ },
+ {
+  "productId": 1294,
+  "registrationNumber": "T7-1258",
+  "productName": "NORMARIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "25 Jul 2024",
+  "expiresAt": "2029-07-25"
+ },
+ {
+  "productId": 1296,
+  "registrationNumber": "T8-1259",
+  "productName": "MARZOLEX 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 5, 2025",
+  "expiresAt": "2030-10-05"
+ },
+ {
+  "productId": 1297,
+  "registrationNumber": "T9-1260",
+  "productName": "GALGALEX 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2021-01-12",
+  "expiresAt": "2026-01-12",
+  "applicantEmail": "regulatory260@demo.example",
+  "applicantPhone": "08000000260"
+ },
+ {
+  "productId": 1298,
+  "registrationNumber": "T1-1261",
+  "productName": "FENPRIEX 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "19/04/2022",
+  "expiresAt": "2027-04-19"
+ },
+ {
+  "productId": 1299,
+  "registrationNumber": "T2-1262",
+  "productName": "DRAOVAIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "26 Jul 2023",
+  "expiresAt": "2028-07-26"
+ },
+ {
+  "productId": 1300,
+  "registrationNumber": "T3-1263",
+  "productName": "ZOLNOREX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 6, 2024",
+  "expiresAt": "2029-10-06"
+ },
+ {
+  "productId": 1301,
+  "registrationNumber": "T4-1264",
+  "productName": "MARDRAEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2025-01-13",
+  "expiresAt": "2030-01-13"
+ },
+ {
+  "productId": 1302,
+  "registrationNumber": "T5-1265",
+  "productName": "MARCURIN 5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "20/04/2021",
+  "expiresAt": "2026-04-20"
+ },
+ {
+  "productId": 1304,
+  "registrationNumber": "T6-1266",
+  "productName": "TANDRAEX 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "approvedAt": "27 Jul 2022",
+  "expiresAt": "2027-07-27"
+ },
+ {
+  "productId": 1305,
+  "registrationNumber": "T7-1267",
+  "productName": "OVAMAREX 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 7, 2023",
+  "expiresAt": "2028-10-07"
+ },
+ {
+  "productId": 1306,
+  "registrationNumber": "T8-1268",
+  "productName": "NORNORIN 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2024-01-14",
+  "expiresAt": "2029-01-14"
+ },
+ {
+  "productId": 1307,
+  "registrationNumber": "T9-1269",
+  "productName": "CURGALEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 503,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "21/04/2025",
+  "expiresAt": "2030-04-21"
+ },
+ {
+  "productId": 1308,
+  "registrationNumber": "T1-1270",
+  "productName": "OVAOVAEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "1 Jul 2021",
+  "expiresAt": "2026-07-01",
+  "applicantEmail": "regulatory270@demo.example",
+  "applicantPhone": "08000000270"
+ },
+ {
+  "productId": 1309,
+  "registrationNumber": "T2-1271",
+  "productName": "NORBEXEX 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 8, 2022",
+  "expiresAt": "2027-10-08"
+ },
+ {
+  "productId": 1310,
+  "registrationNumber": "T3-1272",
+  "productName": "DRATANEX 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2023-01-15",
+  "expiresAt": "2028-01-15"
+ },
+ {
+  "productId": 1312,
+  "registrationNumber": "T4-1273",
+  "productName": "HEPTANEX 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "22/04/2024",
+  "expiresAt": "2029-04-22"
+ },
+ {
+  "productId": 1313,
+  "registrationNumber": "T5-1274",
+  "productName": "TANPRIIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "2 Jul 2025",
+  "expiresAt": "2030-07-02"
+ },
+ {
+  "productId": 1314,
+  "registrationNumber": "T6-1275",
+  "productName": "TANMAREX 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 9, 2021",
+  "expiresAt": "2026-10-09"
+ },
+ {
+  "productId": 1315,
+  "registrationNumber": "T7-1276",
+  "productName": "BEXHEPEX 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2022-01-16",
+  "expiresAt": "2027-01-16"
+ },
+ {
+  "productId": 1316,
+  "registrationNumber": "T8-1277",
+  "productName": "KELDRAIN 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "23/04/2023",
+  "expiresAt": "2028-04-23"
+ },
+ {
+  "productId": 1317,
+  "registrationNumber": "T9-1278",
+  "productName": "NORZOLEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "3 Jul 2024",
+  "expiresAt": "2029-07-03"
+ },
+ {
+  "productId": 1318,
+  "registrationNumber": "T1-1279",
+  "productName": "VENVENEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 10, 2025",
+  "expiresAt": "2030-10-10"
+ },
+ {
+  "productId": 1320,
+  "registrationNumber": "T2-1280",
+  "productName": "ZOLFENIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2021-01-17",
+  "expiresAt": "2026-01-17",
+  "applicantEmail": "regulatory280@demo.example",
+  "applicantPhone": "08000000280"
+ },
+ {
+  "productId": 1321,
+  "registrationNumber": "T3-1281",
+  "productName": "HEPOVAEX 5 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 501,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "24/04/2022",
+  "expiresAt": "2027-04-24"
+ },
+ {
+  "productId": 1322,
+  "registrationNumber": "T4-1282",
+  "productName": "RISHEPEX 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "4 Jul 2023",
+  "expiresAt": "2028-07-04"
+ },
+ {
+  "productId": 1323,
+  "registrationNumber": "T5-1283",
+  "productName": "ZOLHEPIN 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 11, 2024",
+  "expiresAt": "2029-10-11"
+ },
+ {
+  "productId": 1324,
+  "registrationNumber": "T6-1284",
+  "productName": "RISCURIN 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2025-01-18",
+  "expiresAt": "2030-01-18"
+ },
+ {
+  "productId": 1325,
+  "registrationNumber": "T7-1285",
+  "productName": "BEXGALIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "approvedAt": "25/04/2021",
+  "expiresAt": "2026-04-25"
+ },
+ {
+  "productId": 1326,
+  "registrationNumber": "T8-1286",
+  "productName": "RISGALEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "5 Jul 2022",
+  "expiresAt": "2027-07-05"
+ },
+ {
+  "productId": 1328,
+  "registrationNumber": "T9-1287",
+  "productName": "CUROVAIN 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "October 12, 2023",
+  "expiresAt": "2028-10-12"
+ },
+ {
+  "productId": 1329,
+  "registrationNumber": "T1-1288",
+  "productName": "TANRISEX 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF01",
+  "approvedAt": "2024-01-19",
+  "expiresAt": "2029-01-19"
+ },
+ {
+  "productId": 1330,
+  "registrationNumber": "T2-1289",
+  "productName": "CURBEXEX 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "26/04/2025",
+  "expiresAt": "2030-04-26"
+ },
+ {
+  "productId": 1331,
+  "registrationNumber": "T3-1290",
+  "productName": "DRAHEPIN 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "6 Jul 2021",
+  "expiresAt": "2026-07-06",
+  "applicantEmail": "regulatory290@demo.example",
+  "applicantPhone": "08000000290"
+ },
+ {
+  "productId": 1332,
+  "registrationNumber": "T4-1291",
+  "productName": "PRIMAREX 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "October 13, 2022",
+  "expiresAt": "2027-10-13"
+ },
+ {
+  "productId": 1333,
+  "registrationNumber": "T5-1292",
+  "productName": "BEXDRAIN 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2023-01-20",
+  "expiresAt": "2028-01-20"
+ },
+ {
+  "productId": 1334,
+  "registrationNumber": "T6-1293",
+  "productName": "HEPNORIN 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Inactive",
+  "applicant": {
+   "id": 506,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "27/04/2024",
+  "expiresAt": "2029-04-27"
+ },
+ {
+  "productId": 1336,
+  "registrationNumber": "T7-1294",
+  "productName": "FENNOREX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Metformin Hydrochloride"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "A10BA02",
+  "approvedAt": "7 Jul 2025",
+  "expiresAt": "2030-07-07"
+ },
+ {
+  "productId": 1337,
+  "registrationNumber": "T8-1295",
+  "productName": "VENMAREX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Ltd",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Ibuprofen"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AE01",
+  "approvedAt": "October 14, 2021",
+  "expiresAt": "2026-10-14"
+ },
+ {
+  "productId": 1338,
+  "registrationNumber": "T9-1296",
+  "productName": "GALRISEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Ciprofloxacin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01MA02",
+  "approvedAt": "2022-01-21",
+  "expiresAt": "2027-01-21"
+ },
+ {
+  "productId": 1339,
+  "registrationNumber": "T1-1297",
+  "productName": "MARFENIN 5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amlodipine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "5mg",
+  "packSize": "30 x 1",
+  "atcCode": "C08CA01",
+  "approvedAt": "01/04/2023",
+  "expiresAt": "2028-04-01"
+ },
+ {
+  "productId": 1340,
+  "registrationNumber": "T2-1298",
+  "productName": "KELNOREX 10 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Loratadine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "10mg",
+  "packSize": "30 x 1",
+  "atcCode": "R06AX13",
+  "approvedAt": "8 Jul 2024",
+  "expiresAt": "2029-07-08"
+ },
+ {
+  "productId": 1341,
+  "registrationNumber": "T3-1299",
+  "productName": "OVATANIN 20 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Omeprazole"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "20mg",
+  "packSize": "30 x 1",
+  "atcCode": "A02BC01",
+  "approvedAt": "October 15, 2025",
+  "expiresAt": "2030-10-15"
+ },
+ {
+  "productId": 1342,
+  "registrationNumber": "T4-1300",
+  "productName": "MARTANIN 0.5 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "Demo Pharma Limited",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Cabergoline"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "0.5mg",
+  "packSize": "30 x 1",
+  "atcCode": "G02CB03",
+  "approvedAt": "2026-09-05",
+  "expiresAt": "2031-09-05",
+  "applicantEmail": "regulatory300@demo.example",
+  "applicantPhone": "08000000300"
+ },
+ {
+  "productId": 1344,
+  "registrationNumber": "T5-1301",
+  "productName": "KELCUREX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Azithromycin"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01FA10",
+  "approvedAt": "2026-09-06",
+  "expiresAt": "2031-09-06"
+ },
+ {
+  "productId": 1345,
+  "registrationNumber": "T6-1302",
+  "productName": "FENDRAEX 400 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "Testa Healthcare Plc",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Metronidazole"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "400mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01AB01",
+  "approvedAt": "2026-09-07",
+  "expiresAt": "2031-09-07"
+ },
+ {
+  "productId": 1346,
+  "registrationNumber": "T7-1303",
+  "productName": "MARRISEX 50 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 502,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Ltd",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Diclofenac Sodium"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "50mg",
+  "packSize": "30 x 1",
+  "atcCode": "M01AB05",
+  "approvedAt": "2026-09-08",
+  "expiresAt": "2031-09-08"
+ },
+ {
+  "productId": 1347,
+  "registrationNumber": "T8-1304",
+  "productName": "MARVENIN 80/480 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 503,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Artemether",
+   "Lumefantrine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "80mg; 480mg",
+  "packSize": "30 x 1",
+  "approvedAt": "2026-09-09",
+  "expiresAt": "2031-09-09"
+ },
+ {
+  "productId": 1348,
+  "registrationNumber": "T9-1305",
+  "productName": "DRACUREX 100/270 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 504,
+   "name": "Demo Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 101,
+   "name": "DEMO PHARMA LTD.",
+   "country": "INDIA"
+  },
+  "activeIngredients": [
+   "Artesunate",
+   "Amodiaquine"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "100mg; 270mg",
+  "packSize": "30 x 1",
+  "atcCode": "P01BF05",
+  "approvedAt": "2026-09-10",
+  "expiresAt": "2031-09-10"
+ },
+ {
+  "productId": 1349,
+  "registrationNumber": "T1-1306",
+  "productName": "OVAVENEX 500 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 505,
+   "name": "Sample Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 102,
+   "name": "Sample Labs Nigeria Limited",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Paracetamol"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "N02BE01",
+  "approvedAt": "2026-09-11",
+  "expiresAt": "2031-09-11"
+ },
+ {
+  "productId": 1350,
+  "registrationNumber": "T2-1307",
+  "productName": "ZOLMAREX 500 CAPSULES",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 506,
+   "name": "Testa Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 103,
+   "name": "TESTA HEALTHCARE PLC",
+   "country": "NIGERIA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Capsule",
+  "route": "Oral",
+  "strength": "500mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2026-09-12",
+  "expiresAt": "2031-09-12"
+ },
+ {
+  "productId": 1352,
+  "registrationNumber": "T3-1308",
+  "productName": "ZOLCUREX 250/5 SUSPENSIONS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 500,
+   "name": "Exemplar Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 104,
+   "name": "Exemplar Pharmaceuticals Limited",
+   "country": "CHINA"
+  },
+  "activeIngredients": [
+   "Amoxicillin"
+  ],
+  "dosageForm": "Suspension",
+  "route": "Oral",
+  "strength": "250mg/5ml",
+  "packSize": "30 x 1",
+  "atcCode": "J01CA04",
+  "approvedAt": "2026-09-13",
+  "expiresAt": "2031-09-13"
+ },
+ {
+  "productId": 1353,
+  "registrationNumber": "T4-1309",
+  "productName": "CURZOLEX 500/125 TABLETS",
+  "category": "Drugs",
+  "status": "Active",
+  "applicant": {
+   "id": 501,
+   "name": "Placeholder Nigeria Limited"
+  },
+  "manufacturer": {
+   "id": 105,
+   "name": "Placeholder Biotech GmbH",
+   "country": "GERMANY"
+  },
+  "activeIngredients": [
+   "Amoxicillin",
+   "Clavulanic Acid"
+  ],
+  "dosageForm": "Tablet",
+  "route": "Oral",
+  "strength": "500mg/125mg",
+  "packSize": "30 x 1",
+  "atcCode": "J01CR02",
+  "approvedAt": "2026-09-14",
+  "expiresAt": "2031-09-14"
+ }
+]
