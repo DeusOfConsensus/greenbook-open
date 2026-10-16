@@ -132,8 +132,6 @@ What was found on 15 October 2026, via a fetch tool, not from the machine this p
 3. Free-text contact fields (email, phone, address, contact person) are **never stored**: they are dropped at ingest, and email addresses inside other text are redacted.
 4. A failed or partial fetch cannot become a snapshot. An empty result, a result shorter than the source reports, or one under 80% of the previous snapshot's size is refused unless you pass `--allow-partial` or `--force`, and a write is all-or-nothing.
 
-**On redistributing the data:** the code is MIT. The data is NAFDAC's. Consider asking NAFDAC before publishing snapshots, and keep `data/` out of version control until you have an answer. A short email is also a useful first contact with the regulator.
-
 ## Proving what the register said
 
 Each snapshot has a content hash and `verify` recomputes all of them from the stored data, so any edit to a stored record, or to which records a snapshot contains, is detected. `verify` proves the database is self-consistent. It does not prove what NAFDAC published; for that you need the hash on record somewhere independent and dated. Not built yet, and the natural next step: publish `snapshots --json` hashes as a signed git tag per snapshot, or anchor them on-chain.
